@@ -2,7 +2,7 @@
 For this project, I have included two versions of the huffman coding algorith.  The first, HuffmanTree.java, simply encodes a given alphabet
 using a standard binary Huffman tree.  The second, HuffmanTreeRary.java, prompts the user to enter a radix value for the huffman tree and then
 encodes the given alphabet using an n-ary tree with the given radix.  Both also print out the entropy found for the given alphabet as well as the 
-average codeword length (ACWL)
+average codeword length (ACWL).  Each huffman coding java program also includes an associated huffmannode file. 
 
 The input file must be labeled "ea.txt" and the format is as follows:
 Each line contains a symbol of the given alphabet followed by a probability associated with that symbold based on the frequency of the letter
